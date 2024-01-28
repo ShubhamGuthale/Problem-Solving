@@ -1,5 +1,5 @@
-//Tower Of Honoi
-//Time Complexicity : O(2^n)
+//Tower Of Hanoi
+//Time Complexicity----> O(2^n)
 
 import java.util.Scanner;
 
