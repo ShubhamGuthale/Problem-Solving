@@ -1,4 +1,5 @@
-//Bit Manupulation ----> Get Bit
+//Bit Manupulation ----> Update Bit
+//oper=1--->set, oper=0---->clear
 
 import java.util.Scanner;
 public class dsa19 {
@@ -8,12 +9,13 @@ public class dsa19 {
        int bitmap=1<<pos;
        Scanner sc=new Scanner(System.in);
        int oper=sc.nextInt();
-
+       //Set Bit
        if (oper==1) {
        int op= bitmap | n;
        System.out.println(op);
-        
-       } else {
+       } 
+       //clear Bit
+       else {
         int nop=~(bitmap) & n;
         System.out.println(nop);
        }
