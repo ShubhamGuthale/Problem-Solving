@@ -1,3 +1,6 @@
+//Q. Print all Permutations
+//Time complexity - O(n*n!)
+
 public class permutation {
     public static void printPermutation(String str, int idx, String perm) {
         if(str.length() == 0) {
