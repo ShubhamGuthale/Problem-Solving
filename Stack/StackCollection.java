@@ -12,6 +12,9 @@ public class dsa39 {
             System.out.println(s.peek());
             s.pop();
         }
-    }
-    
+    } 
 }
+/*Output : 4
+           3
+           2
+           1 */
