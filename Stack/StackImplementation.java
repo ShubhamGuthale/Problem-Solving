@@ -62,3 +62,8 @@ public class dsa37 {
       }
     }
 }
+
+/*Output : 4
+           3
+           2
+           1 */
