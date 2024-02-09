@@ -66,3 +66,4 @@ public static int height(Node root) {
         System.out.println(diameter(root));
      }
  }
+//5 <---o/p
