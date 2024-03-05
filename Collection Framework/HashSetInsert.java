@@ -1,4 +1,4 @@
-//Hashing - Hashmap
+//Hashing - HashSet
 import java.util.HashSet;
 class dsa58
 {
