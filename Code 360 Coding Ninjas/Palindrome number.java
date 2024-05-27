@@ -33,4 +33,4 @@ public class Solution
 	}
 }
 
-//Link - https://www.naukri.com/code360/problems/palindrome-number_624662
+//Problem Link - https://www.naukri.com/code360/problems/palindrome-number_624662
