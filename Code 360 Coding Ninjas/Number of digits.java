@@ -13,3 +13,5 @@ public class Solution {
     }
 }
 //Tc ---> O(log10(n))
+
+//Problem Link -  https://www.naukri.com/code360/problems/number-of-digits_9173
