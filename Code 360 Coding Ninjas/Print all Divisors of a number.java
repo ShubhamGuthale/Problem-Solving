@@ -19,5 +19,6 @@ public class Solution {
         System.out.println("Divisors of " + n + " are: " + divisors);
     }
 }
+//Tc O(n).
 
 //problem link - https://www.naukri.com/code360/problems/print-all-divisors-of-a-number_1164188
